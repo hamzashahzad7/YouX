@@ -1,0 +1,1339 @@
+@media screen and (max-width:768px) {
+
+    .nav-ul {
+        display: none;
+    }
+
+    .nav-icon {
+        width: 18%;
+        left : 80%;
+        top  : 29%;
+    }
+
+    .nav-p {
+        left      : 22%;
+        top       : 0%;
+        font-size : 16px;
+        transition: 0.4s;
+    }
+
+    .fa-envelope {
+        font-weight: 400;
+        font-size  : 20px;
+
+    }
+
+    .nav-h {
+        font-size: 21px;
+        top      : 28%;
+        left     : 11%;
+    }
+
+    .nav-logo {
+        border: 4px solid black;
+        width : 3%;
+        height: 23px;
+        top   : 26%;
+        left  : 5%;
+
+    }
+
+    header {
+        width              : 100%;
+        height             : 670px;
+        /* background-color: grey; */
+
+    }
+
+    .header-p {
+        position : absolute;
+        top      : 4%;
+        left     : 37%;
+        font-size: 20px;
+
+    }
+
+
+
+    .header-h {
+        position      : absolute;
+        top           : 10%;
+        left          : 30%;
+        font-size     : 29px;
+        word-spacing  : 6px;
+        line-height   : 48px;
+        text-align    : center;
+        letter-spacing: 4px;
+
+
+    }
+
+    .header-btn {
+        padding  : 16px 44px;
+        font-size: 15px;
+        top      : 37%;
+        left     : 40%;
+
+
+    }
+
+    .header-img {
+        width   : 36%;
+        height  : 300px;
+        position: absolute;
+        left    : 33%;
+        top     : 52%;
+    }
+
+    .service-main-h {
+        font-size: 37px;
+        top      : 5%;
+        left     : 38%;
+    }
+
+    .service-main-p {
+        top        : 13%;
+        left       : 20%;
+        line-height: 29px;
+    }
+
+    .box-img {
+        width : 64px;
+        height: 89px;
+        top   : 5%;
+        left  : 4%;
+
+    }
+
+    .box-h {
+        position : absolute;
+        top      : 13%;
+        left     : 30%;
+        font-size: 21px;
+
+
+    }
+
+    .box-p {
+        position   : absolute;
+        top        : 33%;
+        left       : 30%;
+        line-height: 17px;
+        font-size  : 13px;
+
+    }
+
+    .service-btn {
+        padding  : 16px 33px;
+        position : absolute;
+        top      : 90%;
+        left     : 40%;
+        font-size: 14px;
+
+    }
+
+    .about-h {
+        font-size   : 45px;
+        position    : absolute;
+        left        : 10%;
+        top         : 4%;
+        word-spacing: 10px;
+
+    }
+
+    .about-p {
+        position   : absolute;
+        top        : 14%;
+        left       : 10%;
+        line-height: 28px;
+    }
+
+    .about-btn {
+        padding  : 17px 49px;
+        font-size: 16px;
+        top      : 36%;
+        left     : 9%;
+
+    }
+
+    .about-img {
+        width : 86%;
+        height: 400px;
+        top   : 48%;
+        left  : 8%;
+    }
+
+    .resume-main-h {
+        font-size: 29px;
+        top      : 14%;
+        left     : 8%;
+    }
+
+    .resume-btn {
+        padding: 20px 16px;
+        top    : 12%;
+        left   : 72%;
+    }
+
+    .fab {
+        font-size: 34px;
+        left     : 6%;
+    }
+
+    .icon-name {
+
+        top : 14%;
+        left: 21%;
+    }
+
+    .resume-box-h {
+
+        top      : 31%;
+        left     : 7%;
+        font-size: 19px;
+    }
+
+    .date {
+        position : absolute;
+        top      : 48%;
+        left     : 7%;
+        font-size: 14px;
+    }
+
+    .portfolio {
+        width              : 100%;
+        height             : 830px;
+        /* background-color: grey; */
+        position           : relative;
+    }
+
+    .portfolio-box1 {
+        width : 39%;
+        height: 600px;
+
+        top : 30%;
+        left: 10%;
+    }
+
+    .portfolio-box2 {
+        width : 40%;
+        height: 600px;
+
+        top : 30%;
+        left: 50%;
+    }
+
+    .portfolio-main-h {
+        font-size  : 33px;
+        top        : 10%;
+        left       : 8%;
+        line-height: 57px;
+
+    }
+
+    .portfolio-icon1 {
+        padding  : 17px 25px;
+        top      : 12%;
+        left     : 67%;
+        font-size: 31px;
+    }
+
+    .portfolio-icon2 {
+        padding  : 17px 25px;
+        top      : 12%;
+        left     : 78%;
+        font-size: 31px;
+
+    }
+
+    .portfolio-box1-h {
+        top      : 65%;
+        left     : 5%;
+        font-size: 17px;
+
+    }
+
+    .portfolio-box2-h {
+
+        top      : 65%;
+        left     : 10%;
+        font-size: 17px;
+    }
+
+    .portfolio-box1-p {
+        position   : absolute;
+        top        : 72%;
+        left       : 5%;
+        line-height: 23px;
+        text-align : center;
+        text-align : left;
+    }
+
+    .portfolio-box2-p {
+
+        top        : 71%;
+        left       : 10%;
+        line-height: 23px;
+        text-align : left;
+
+    }
+
+    .portfolio-box1-btn {
+
+        font-size: 16px;
+        top      : 94%;
+        left     : 5%;
+    }
+
+    .portfolio-box2-btn {
+
+        font-size: 16px;
+        top      : 94%;
+        left     : 10%;
+
+    }
+
+    .client-main-h {
+
+        top         : 12%;
+        left        : 16%;
+        font-size   : 29px;
+        word-spacing: 5px;
+        text-align  : center;
+
+    }
+
+    .client-main-p {
+
+        top        : 19%;
+        left       : 18%;
+        font-weight: 100;
+        font-size  : 17px;
+        line-height: 28px;
+    }
+
+    .client-main {
+        width           : 64%;
+        height          : 520px;
+        background-color: #effbff;
+        position        : absolute;
+        top             : 29%;
+        left            : 18%;
+        border-radius   : 25px;
+    }
+
+    .client-upper {
+        /* border  : 2px solid black; */
+        width           : 100%;
+        height          : 440px;
+        position        : absolute;
+        top             : 33%;
+        background-color: white;
+    }
+
+    .client-upper-img {
+        width : 20%;
+        height: 200px;
+        left  : 63%;
+        top   : 26%;
+    }
+
+    .client-upper-p {
+
+
+        top : 28%;
+        left: 20%;
+
+    }
+
+    blockquote {
+
+        top : 49%;
+        left: 20%;
+
+    }
+
+    cite {
+
+        top : 57%;
+        left: 20%;
+    }
+
+    .client-icon-1 {
+        padding  : 17px 21px;
+        top      : 43%;
+        left     : 5%;
+        font-size: 25px;
+
+    }
+
+    .client-icon-2 {
+        padding  : 17px 21px;
+        top      : 43%;
+        left     : 88%;
+        font-size: 24px;
+    }
+
+    .article {
+        width              : 100%;
+        height             : 1100px;
+        /* background-color: grey; */
+        position           : relative;
+    }
+
+    .article-main-h {
+        font-size: 38px;
+        top      : 0;
+        left     : 30%;
+
+    }
+
+    .article-btn {
+        padding  : 22px 48px;
+        font-size: 14px;
+        top      : 6%;
+        left     : 39%;
+    }
+
+    .article-box1 {
+        width : 93%;
+        height: 305px;
+        top   : 14%;
+        left  : 3%;
+
+    }
+
+    .article-box2 {
+        width : 93%;
+        height: 305px;
+        top   : 43%;
+        left  : 3%;
+
+    }
+
+    .article-box3 {
+        width : 93%;
+        height: 305px;
+        top   : 72%;
+        left  : 3%;
+
+    }
+
+    .article-box-h {
+        position : absolute;
+        top      : 83%;
+        left     : 3%;
+        font-size: 16px;
+
+    }
+
+    .article-date {
+        position : absolute;
+        font-size: 14px;
+        left     : 14%;
+        top      : 92%;
+    }
+
+    .article-p {
+        position : absolute;
+        font-size: 14px;
+        left     : 3%;
+        top      : 92%;
+    }
+
+    .insta {
+        width   : 100%;
+        height  : 670px;
+        position: relative;
+    }
+
+    .insta-h {
+
+        top      : 10%;
+        left     : 24%;
+        font-size: 35px;
+
+    }
+
+    .insta-btn {
+        font-size: 36px;
+        top      : 60px;
+        left     : 55%;
+
+    }
+
+    .insta-img1 {
+        position     : absolute;
+        width        : 20%;
+        height       : 200px;
+        top          : 4%;
+        left         : 2%;
+        border-radius: 20px;
+    }
+
+    .insta-img2 {
+        position     : absolute;
+        width        : 20%;
+        height       : 200px;
+        top          : 43%;
+        left         : 2%;
+        border-radius: 20px;
+    }
+
+    .insta-img3 {
+        position     : absolute;
+        width        : 30%;
+        height       : 404px;
+        top          : 4%;
+        left         : 24%;
+        border-radius: 20px;
+    }
+
+    .insta-img4 {
+        position     : absolute;
+        width        : 20%;
+        height       : 200px;
+        top          : 4%;
+        left         : 56%;
+        border-radius: 20px;
+    }
+
+    .insta-img5 {
+        position     : absolute;
+        width        : 20%;
+        height       : 200px;
+        top          : 43%;
+        left         : 56%;
+        border-radius: 20px;
+    }
+
+    .insta-img6 {
+        position     : absolute;
+        width        : 20%;
+        height       : 200px;
+        top          : 4%;
+        left         : 78%;
+        border-radius: 20px;
+    }
+
+    .insta-img7 {
+
+        width : 20%;
+        height: 200px;
+        top   : 43%;
+        left  : 78%;
+
+    }
+
+    footer {
+
+        width : 100%;
+        height: 750px;
+
+    }
+
+    .footer-main-h {
+
+        font-size: 37px;
+        top      : 11%;
+        left     : 13%;
+    }
+
+    .footer-logo {
+        width : 4%;
+        height: 32px;
+        top   : 12%;
+        left  : 6%;
+    }
+
+    .footer-main-p {
+        position   : absolute;
+        top        : 22%;
+        left       : 8%;
+        font-size  : 19px;
+        line-height: 32px;
+    }
+
+    #twitter {
+
+        top      : 38%;
+        left     : 17%;
+        font-size: 28px;
+
+
+    }
+
+    #facebook {
+
+        top      : 38%;
+        left     : 13%;
+        font-size: 28px;
+
+    }
+
+    #linkedon {
+
+        top      : 38%;
+        left     : 9%;
+        font-size: 28px;
+
+    }
+
+    #watsapp {
+
+        top      : 38%;
+        left     : 21%;
+        font-size: 28px;
+
+    }
+
+    #insta {
+        position : absolute;
+        top      : 38%;
+        left     : 25%;
+        font-size: 23px;
+    }
+
+    .page {
+        font-size: 23px;
+        top      : 45%;
+        left     : 7%;
+    }
+
+    .utility {
+        font-size: 23px;
+        top      : 45%;
+        left     : 44%;
+    }
+
+    .contact {
+        font-size: 23px;
+        top      : 45%;
+        left     : 69%;
+    }
+
+    .footer-ul1 {
+        top : 50%;
+        left: 7%;
+
+    }
+
+    .footer-ul2 {
+
+        top : 50%;
+        left: 25%;
+
+    }
+
+    .footer-ul3 {
+
+        top : 50%;
+        left: 44%;
+
+    }
+
+    .footer-ul4 {
+        position: absolute;
+        top     : 50%;
+        left    : 74%;
+
+    }
+
+    .footer-end {
+
+        left: 21%;
+
+    }
+}
+
+@media screen and (max-width:480px) {
+    .nav-logo {
+        width : 5%;
+        height: 24px;
+        top   : 27%;
+        left  : 4%;
+
+    }
+
+    .nav-h {
+        font-size: 21px;
+        top      : 30%;
+        left     : 13%;
+    }
+
+    .nav-p {
+        left     : 0%;
+        top      : 0%;
+        font-size: 13px;
+
+    }
+
+    .fa-envelope {
+
+        font-size: 20px;
+        left     : -32%;
+        position : absolute;
+        top      : -7%;
+
+    }
+
+    .header-p {
+        position : absolute;
+        top      : 4%;
+        left     : 30%;
+        font-size: 20px;
+
+    }
+
+
+
+    .header-h {
+        position      : absolute;
+        top           : 10%;
+        left          : 12%;
+        font-size     : 36px;
+        word-spacing  : 2px;
+        line-height   : 48px;
+        text-align    : center;
+        letter-spacing: 4px;
+
+
+    }
+
+    .header-btn {
+        padding  : 16px 44px;
+        font-size: 15px;
+        top      : 37%;
+        left     : 33%;
+
+
+    }
+
+    .header-img {
+        width : 53%;
+        height: 280px;
+        left  : 24%;
+        top   : 52%;
+    }
+
+    .service {
+        width              : 100%;
+        height             : 1220px;
+        /* background-color: rgb(216, 216, 216); */
+        position           : relative;
+    }
+
+    .service-main-h {
+        font-size: 37px;
+        top      : 5%;
+        left     : 30%;
+    }
+
+    .service-main-p {
+        top        : 10%;
+        left       : 2%;
+        line-height: 26px;
+    }
+
+    .service-lower {
+        width : 70%;
+        height: 830px;
+        top   : 20%;
+        left  : 16%;
+
+    }
+
+    .box-h {
+        position: absolute;
+        top     : 18%;
+        left    : 25%;
+    }
+
+    .box-p {
+        position   : absolute;
+        top        : 40%;
+        left       : 25%;
+        line-height: 28px;
+        font-size  : 15px;
+
+    }
+
+    .box-img {
+        width        : 74px;
+        height       : 89px;
+        position     : absolute;
+        top          : 13%;
+        left         : 4%;
+        border-radius: 25px;
+    }
+
+    .service-box1 {
+
+        width : 82%;
+        height: 180px;
+        top   : 22%;
+        left  : 9%;
+
+    }
+
+    .service-box2 {
+
+        width : 84%;
+        height: 180px;
+        top   : 38%;
+        left  : 8%;
+
+    }
+
+    .service-box3 {
+        width : 86%;
+        height: 180px;
+        top   : 54%;
+        left  : 8%;
+
+    }
+
+    .service-box4 {
+
+        width : 86%;
+        height: 180px;
+        top   : 70%;
+        left  : 9%;
+
+    }
+
+    .service-btn {
+        padding  : 15px 29px;
+        top      : 92%;
+        left     : 37%;
+        font-size: 13px;
+    }
+
+    .about-h {
+        font-size   : 36px;
+        position    : absolute;
+        left        : 9%;
+        top         : 4%;
+        word-spacing: 7px;
+
+    }
+
+    .about-p {
+        position   : absolute;
+        top        : 12%;
+        left       : 9%;
+        line-height: 21px;
+    }
+
+    .about-btn {
+        padding  : 13px 36px;
+        font-size: 13px;
+        top      : 36%;
+        left     : 9%;
+
+    }
+
+    .about-img {
+        width        : 88%;
+        height       : 400px;
+        top          : 48%;
+        left         : 6%;
+        border-radius: 20px;
+    }
+
+    .resume {
+        width              : 100%;
+        height             : 1250px;
+        /* background-color: grey; */
+        position           : relative;
+    }
+
+    .resume-lower {
+        width : 70%;
+        height: 885px;
+        top   : 22%;
+        left  : 16%;
+
+    }
+
+    .resume-main-h {
+        font-size  : 34px;
+        position   : absolute;
+        top        : 10%;
+        left       : 8%;
+        font-weight: 100;
+
+    }
+
+    .resume-btn {
+        padding  : 13px 19px;
+        top      : 15%;
+        left     : 10%;
+        font-size: 12px;
+    }
+
+    .resume-box1 {
+
+        width : 83%;
+        height: 200px;
+        top   : 24%;
+        left  : 9%;
+    }
+
+    .resume-box2 {
+
+        width : 83%;
+        height: 200px;
+        top   : 41%;
+        left  : 9%;
+
+    }
+
+    .resume-box3 {
+
+        width : 83%;
+        height: 200px;
+        top   : 58%;
+        left  : 9%;
+
+    }
+
+    .resume-box4 {
+
+        width : 83%;
+        height: 200px;
+        top   : 75%;
+        left  : 9%;
+
+    }
+
+    .resume-box-h {
+        position: absolute;
+        top     : 33%;
+        left    : 6%;
+    }
+
+    .date {
+        position : absolute;
+        top      : 48%;
+        left     : 6%;
+        font-size: 14px;
+    }
+
+    .resume-box-p {
+        position   : absolute;
+        top        : 61%;
+        left       : 6%;
+        line-height: 22px;
+    }
+
+    .fab {
+        font-size: 44px;
+        position : absolute;
+        top      : 7%;
+        left     : 5%;
+    }
+
+    .icon-name {
+        position: absolute;
+        top     : 12%;
+        left    : 18%;
+    }
+
+    .portfolio {
+        width              : 100%;
+        height             : 750px;
+        /* background-color: grey; */
+        position           : relative;
+    }
+
+    .portfolio-main-h {
+        font-size  : 28px;
+        position   : absolute;
+        top        : 1%;
+        left       : 5%;
+        line-height: 44px;
+
+    }
+
+    .portfolio-icon1 {
+        padding  : 20px 24px;
+        top      : 2%;
+        left     : 66%;
+        font-size: 22px;
+    }
+
+    .portfolio-icon2 {
+
+        padding  : 20px 24px;
+        top      : 2%;
+        left     : 80%;
+        font-size: 22px;
+
+    }
+
+    .portfolio-box1 {
+        width   : 84%;
+        height  : 570px;
+        position: absolute;
+        top     : 18%;
+        left    : 8%;
+    }
+
+    .portfolio-box1-h {
+        position    : absolute;
+        top         : 69%;
+        left        : 3%;
+        font-size   : 21px;
+        word-spacing: 3px;
+
+    }
+
+    .portfolio-box1-p {
+        position   : absolute;
+        top        : 76%;
+        left       : 3%;
+        line-height: 23px;
+        text-align : left;
+    }
+
+    .portfolio-box1-btn {
+
+        font-size: 16px;
+        top      : 93%;
+        left     : 3%;
+
+    }
+
+    .portfolio-box2 {
+        display: none;
+    }
+
+    .client {
+        width              : 100%;
+        height             : 770px;
+        /* background-color: grey; */
+        position           : relative;
+    }
+
+    .client-main-h {
+
+        top         : 1%;
+        left        : 0%;
+        font-size   : 29px;
+        word-spacing: 1px;
+        text-align  : center;
+
+    }
+
+    .client-main-p {
+
+        top        : 11%;
+        left       : 1%;
+        font-weight: 100;
+        font-size  : 17px;
+        line-height: 23px;
+    }
+
+    .client-main {
+        width           : 64%;
+        height          : 520px;
+        background-color: #effbff;
+        position        : absolute;
+        top             : 22%;
+        left            : 18%;
+        border-radius   : 25px;
+    }
+
+    .client-upper {
+        /* border: 2px solid black; */
+        width   : 100%;
+        height  : 450px;
+        position: absolute;
+        top     : 26%;
+
+    }
+
+    .client-upper-img {
+        width : 30%;
+        height: 158px;
+        left  : 35%;
+        top   : 2%;
+    }
+
+    .client-upper-p {
+
+        top        : 48%;
+        left       : 21%;
+        line-height: 25px;
+
+    }
+
+    blockquote {
+
+        top : 73%;
+        left: 22%;
+
+    }
+
+    cite {
+
+        top : 82%;
+        left: 22%;
+    }
+
+    .client-icon-1 {
+        padding  : 17px 22px;
+        top      : 43%;
+        left     : 5%;
+        font-size: 20px;
+
+    }
+
+    .client-icon-2 {
+        padding  : 17px 22px;
+        top      : 43%;
+        left     : 85%;
+        font-size: 20px;
+
+    }
+
+    .article-main-h {
+        font-size  : 29px;
+        position   : absolute;
+        top        : 5%;
+        left       : 5%;
+        font-weight: bold;
+    }
+
+    .article-btn {
+        padding  : 16px 22px;
+        font-size: 11px;
+        top      : 4%;
+        left     : 67%;
+
+    }
+
+    .insta {
+        width : 100%;
+        height: 560px;
+
+        position: relative;
+    }
+
+    .insta-main {
+        height: 400px;
+        width : 100%;
+
+        /* border  : 2px solid rgb(0, 0, 0); */
+        position: absolute;
+        top     : 28%;
+    }
+
+    .insta-h {
+        position : absolute;
+        top      : 13%;
+        left     : 16%;
+        font-size: 27px;
+
+    }
+
+    .insta-btn {
+        font-size: 29px;
+        position : absolute;
+        top      : 69px;
+        left     : 54%;
+
+    }
+
+    .insta-img1 {
+
+        width : 20%;
+        height: 143px;
+        top   : 11%;
+        left  : 2%;
+
+    }
+
+    .insta-img2 {
+
+        width : 20%;
+        height: 143px;
+        top   : 48%;
+        left  : 2%;
+
+    }
+
+    .insta-img3 {
+        position     : absolute;
+        width        : 30%;
+        height       : 293px;
+        top          : 11%;
+        left         : 24%;
+        border-radius: 20px;
+    }
+
+    .insta-img4 {
+        position     : absolute;
+        width        : 20%;
+        height       : 143px;
+        top          : 11%;
+        left         : 56%;
+        border-radius: 20px;
+    }
+
+    .insta-img5 {
+        position     : absolute;
+        width        : 20%;
+        height       : 143px;
+        top          : 48%;
+        left         : 56%;
+        border-radius: 20px;
+    }
+
+    .insta-img6 {
+        position     : absolute;
+        width        : 20%;
+        height       : 143px;
+        top          : 11%;
+        left         : 78%;
+        border-radius: 20px;
+    }
+
+    .insta-img7 {
+
+        width : 20%;
+        height: 143px;
+        top   : 48%;
+        left  : 78%;
+
+    }
+
+    footer {
+
+        width : 100%;
+        height: 1100px;
+
+    }
+
+    .footer-main-h {
+
+        font-size: 35px;
+        top      : 5%;
+        left     : 17%;
+    }
+
+    .footer-logo {
+        width : 7%;
+        height: 32px;
+        top   : 5%;
+        left  : 4%;
+    }
+
+    .footer-main-p {
+        position   : absolute;
+        top        : 12%;
+        left       : 5%;
+        font-size  : 22px;
+        line-height: 32px;
+    }
+
+    #twitter {
+        top      : 23%;
+        left     : 16%;
+        font-size: 37px;
+    }
+
+    #facebook {
+
+        top      : 23%;
+        left     : 29%;
+        font-size: 36px;
+
+    }
+
+    #linkedon {
+
+        top      : 23%;
+        left     : 7%;
+        font-size: 35px;
+
+    }
+
+    #watsapp {
+
+        top      : 23%;
+        left     : 42%;
+        font-size: 36px;
+
+    }
+
+    #insta {
+        position : absolute;
+        top      : 23%;
+        left     : 55%;
+        font-size: 27px;
+    }
+
+    .page {
+        font-size: 23px;
+        top      : 30%;
+        left     : 7%;
+    }
+
+    .utility {
+        font-size: 23px;
+        top      : 58%;
+        left     : 7%;
+    }
+
+    .contact {
+        font-size: 23px;
+        top      : 58%;
+        left     : 64%;
+    }
+
+    .footer-ul1 {
+        top : 33%;
+        left: 7%;
+
+    }
+
+    .footer-ul2 {
+
+        top : 33%;
+        left: 73%;
+
+    }
+
+    .footer-ul3 {
+
+        top : 62%;
+        left: 7%;
+
+    }
+
+    .footer-ul4 {
+        position: absolute;
+        top     : 62%;
+        left    : 74%;
+
+    }
+
+    .footer-end {
+
+        top      : 98%;
+        left     : 13%;
+        font-size: 11px;
+
+    }
+}
+
+
+
+
+
+
+
+
+}
